@@ -13,7 +13,8 @@ h1 {
 
 section {
     display: flex;
-    padding-left: 2%
+    padding-left: 2%;
+    margin-bottom: 100px;
 }
 
 .top-banner {
@@ -38,4 +39,11 @@ section {
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 10%;
 }
